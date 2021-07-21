@@ -1,3 +1,4 @@
+/* eslint-disable */
 import {ADD_TODO,REMOVE_TODO} from '../context/actionConstant'
 
 export default (state,action) => {
